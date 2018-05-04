@@ -63,14 +63,14 @@
 
 .burgGrill #small1{
 	color:red;
-	font-size:30px;
+	font-size:24px;
 	background-color: white;
 	padding-left: 15px;
 }
 
 .burgGrill #small2{
 	color:white;
-	font-size:30px;
+	font-size:24px;
 	background-color: black;
 	padding-left: 15px;
 	padding-right: 15px;
@@ -78,14 +78,14 @@
 
 .burgGrill #xsmall1{
 	color:red;
-	font-size:16px;
+	font-size:10px;
 	background-color: white;
 	padding-left: 12px;
 }
 
 .burgGrill #xsmall2{
 	color:white;
-	font-size:16px;
+	font-size:10px;
 	background-color: black;
 	padding-left: 12px;
 	padding-right: 12px;
