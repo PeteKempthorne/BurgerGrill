@@ -1,0 +1,207 @@
+.nav-item
+{
+	padding-right: 12px;	
+}
+
+
+.burgGrill{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform:translate(-50%,-50%);
+	-ms-transform:translate(-50%,-50%);	
+}
+
+.burgContainer p{
+	display: inline;
+}
+
+.burgGrill #xlrg1{
+	color:red;
+	font-size:72px;
+	background-color: white;
+	padding-left: 20px;
+}
+
+.burgGrill #xlrg2{
+	color:white;
+	font-size:72px;
+	background-color: black;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.burgGrill #lrg1{
+	color:red;
+	font-size:48px;
+	background-color: white;
+	padding-left: 18px;
+}
+
+.burgGrill #lrg2{
+	color:white;
+	font-size:48px;
+	background-color: black;
+	padding-left: 18px;
+	padding-right: 18px;
+}
+
+.burgGrill #med1{
+	color:red;
+	font-size:36px;
+	background-color: white;
+	padding-left: 18px;
+}
+
+.burgGrill #med2{
+	color:white;
+	font-size:36px;
+	background-color: black;
+	padding-left: 18px;
+	padding-right: 18px;
+}
+
+.burgGrill #small1{
+	color:red;
+	font-size:30px;
+	background-color: white;
+	padding-left: 15px;
+}
+
+.burgGrill #small2{
+	color:white;
+	font-size:30px;
+	background-color: black;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.burgGrill #xsmall1{
+	color:red;
+	font-size:16px;
+	background-color: white;
+	padding-left: 12px;
+}
+
+.burgGrill #xsmall2{
+	color:white;
+	font-size:16px;
+	background-color: black;
+	padding-left: 12px;
+	padding-right: 12px;
+}
+
+.offerWrap
+{
+	position:relative;
+}
+
+.offers-cell-text
+{
+	position: absolute;
+	top: 5%;
+	left: 7%;
+	padding: 5px;
+	background-color:black;
+	color: #ccc;
+	font-size:18px;
+	border-bottom-right-radius: 15px;
+}
+
+.offers-cell-text2
+{
+	position: absolute;
+	bottom: 5%;
+	right: 7%;
+	padding: 5px;
+	background-color:white;
+	color: red;
+	font-size:28px;
+	border: 1px solid #000000;
+	border-top-left-radius: 15px;
+}
+
+.offers-cell-text-xs
+{
+	position: absolute;
+	top: 5%;
+	left: 7%;
+	padding: 5px;
+	background-color:black;
+	color: #ccc;
+	font-size:12px;
+	border-bottom-right-radius: 8px;
+}
+
+.offers-cell-text2-xs
+{
+	position: absolute;
+	bottom: 5%;
+	right: 7%;
+	padding: 5px;
+	background-color:white;
+	color: red;
+	font-size:15px;
+	border: 1px solid #000000;
+	border-top-left-radius: 8px;
+}
+
+.menu-title p
+{
+	font-size:15px;
+	padding-bottom: 10px;
+	border-bottom: 1px dotted;
+	width:95%;
+	background-color:#f4f9a2;
+	padding:5px 0 5px 25px;	
+}
+
+.menu-text li
+{
+	margin:0;
+	padding:0 0 0 5px;	
+	list-style-type: square;
+	font-size: 13px;
+}
+
+.menu-text li:nth-child(odd)
+{
+	background-color: #d8d2d2;
+}
+
+.menu-text li:nth-child(even)
+{
+	background-color: #eae3e3;
+}
+
+.menu-price p
+{
+	margin:0;
+	padding:0;	
+	
+	font-size: 13px;
+}
+
+.menu-price p:nth-child(odd)
+{
+	background-color: #d8d2d2;
+}
+
+.menu-price p:nth-child(even)
+{
+	background-color: #eae3e3;
+}
+
+#bottom{
+	margin-top: 30px;
+	padding-top: 20px;
+	position:relative;
+	width:100%;
+	background-color:black;
+	color:white;
+	height: 100px;	
+}
+	
+#bottom p{
+	margin-left:25px;
+}
